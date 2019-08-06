@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/springcloudsell/api-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudsell/config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudsell/eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudsell/order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudsell/order/client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudsell/order/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudsell/order/server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudsell/product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudsell/product/client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudsell/product/commom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudsell/product/server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudsell/user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudsell/user/server" charset="UTF-8" />
+  </component>
+</project>

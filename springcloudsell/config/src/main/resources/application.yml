@@ -1,0 +1,22 @@
+spring:
+  application:
+    name: config
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://gitee.com/lzz10086/config_repo.git
+          username: 18295078137
+          password: lzz4450..
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+server:
+  port: 8080
